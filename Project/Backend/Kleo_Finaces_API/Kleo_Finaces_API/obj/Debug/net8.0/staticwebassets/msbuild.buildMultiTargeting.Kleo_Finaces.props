@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Kleo_Finaces.props" />
+</Project>
